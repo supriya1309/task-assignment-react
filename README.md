@@ -17,13 +17,6 @@ An interactive Kanban board application built using React JS and SCSS. The board
 - **Custom Spinner**: An engaging spinner for better user experience during data fetching or other waiting times.
 - **Available User Indicator**: Displays which users are currently available.
 
-## Live Demo
-
-Experience the application [here](https://quicksell-task-hargun-singh.onrender.com/).
-
-## Repository
-
-Find the source code on [GitHub](https://github.com/hargun0360/QuickSell-Frontend-Assignment).
 
 ## Tech Stack
 
